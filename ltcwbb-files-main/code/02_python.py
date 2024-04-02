@@ -253,7 +253,7 @@ obp_wdefault(5, 1, 2)
 # obp_wdefault()  # commented out since error
 
 obp(5, 1, 2, 0, 0)
-obp?
+# obp?
 
 obp(hits=1, walks=2, atbats=5, hit_by_pitch=0, sac_flies=0)
 
