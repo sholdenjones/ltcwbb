@@ -1,4 +1,4 @@
-print("By") #TODO: change to Bye
+print("Bye")
 
 print("IT WORKS!") #TODO: write dissertation!
 
