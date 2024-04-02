@@ -4,86 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a7edee51-8d5c-4d77-bc16-2d5594db28f7" name="Changes" comment="hello! this is a test - does it work? initial commit">
-      <change afterPath="$PROJECT_DIR$/README.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ltcwbb-files-main/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ltcwbb-files-main/anki/00_tooling.apkg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ltcwbb-files-main/anki/01_Intro.apkg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ltcwbb-files-main/anki/02_python.apkg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ltcwbb-files-main/anki/03_00_pandas_basic.apkg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ltcwbb-files-main/anki/03_01_pandas_columns.apkg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ltcwbb-files-main/anki/03_02_pandas_functions.apkg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ltcwbb-files-main/anki/03_03_pandas_filtering.apkg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ltcwbb-files-main/anki/03_04_pandas_granularity.apkg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ltcwbb-files-main/anki/03_05_pandas_combine.apkg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ltcwbb-files-main/anki/04_sql.apkg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ltcwbb-files-main/anki/05_scraping.apkg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ltcwbb-files-main/anki/06_stats.apkg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ltcwbb-files-main/anki/07_modeling.apkg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ltcwbb-files-main/code/02_python.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ltcwbb-files-main/code/03_00_basics.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ltcwbb-files-main/code/03_01_columns.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ltcwbb-files-main/code/03_02_functions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ltcwbb-files-main/code/03_03_filter.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ltcwbb-files-main/code/03_04_granularity.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ltcwbb-files-main/code/03_05_combine.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ltcwbb-files-main/code/04_sql.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ltcwbb-files-main/code/05_01_scraping.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ltcwbb-files-main/code/05_02_bbref.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ltcwbb-files-main/code/05_03_api.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ltcwbb-files-main/code/05_04_wrapper.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ltcwbb-files-main/code/06_summary.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ltcwbb-files-main/code/07_00_data.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ltcwbb-files-main/code/07_01_ols.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ltcwbb-files-main/code/07_02_coinflip.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ltcwbb-files-main/code/07_03_ols2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ltcwbb-files-main/code/07_04_random_forest.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ltcwbb-files-main/data/100-game-sample/atbats.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ltcwbb-files-main/data/100-game-sample/baseball.sqlite" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ltcwbb-files-main/data/100-game-sample/batter-player.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ltcwbb-files-main/data/100-game-sample/fantasy.sqlite" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ltcwbb-files-main/data/100-game-sample/game-player.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ltcwbb-files-main/data/100-game-sample/games.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ltcwbb-files-main/data/100-game-sample/pitches.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ltcwbb-files-main/data/100-game-sample/pitches_w_inplay.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ltcwbb-files-main/data/100-game-sample/pitches_w_inplay_nb.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ltcwbb-files-main/data/100-game-sample/players.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ltcwbb-files-main/data/2018-season/atbats.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ltcwbb-files-main/data/2018-season/dfp_simple.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ltcwbb-files-main/data/2018-season/pitches.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ltcwbb-files-main/data/2018-season/players.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ltcwbb-files-main/data/2018-season/players_cuba.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ltcwbb-files-main/data/2018-season/players_cuba_no_index.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ltcwbb-files-main/data/2018-season/teams.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ltcwbb-files-main/data/json/rosters.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ltcwbb-files-main/data/json/standings.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ltcwbb-files-main/data/json/teams.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ltcwbb-files-main/data/problems/combine1/hits.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ltcwbb-files-main/data/problems/combine1/other.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ltcwbb-files-main/data/problems/combine1/outs.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ltcwbb-files-main/data/problems/combine2/infield.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ltcwbb-files-main/data/problems/combine2/inning_1-3.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ltcwbb-files-main/data/problems/combine2/inning_4-6.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ltcwbb-files-main/data/problems/combine2/inning_7-9.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ltcwbb-files-main/data/problems/combine2/outfield.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ltcwbb-files-main/data/problems/combine2/pitcher.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ltcwbb-files-main/data/problems/dfp_simple.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ltcwbb-files-main/solutions-to-exercises/02_python_answers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ltcwbb-files-main/solutions-to-exercises/03_pandas_answers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ltcwbb-files-main/solutions-to-exercises/04_sql_answers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ltcwbb-files-main/solutions-to-exercises/05_api_answers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ltcwbb-files-main/solutions-to-exercises/05_scraping_answers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ltcwbb-files-main/solutions-to-exercises/06_plotting_answers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ltcwbb-files-main/solutions-to-exercises/6-1a.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ltcwbb-files-main/solutions-to-exercises/6-1b.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ltcwbb-files-main/solutions-to-exercises/6-1c.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ltcwbb-files-main/solutions-to-exercises/6-1d.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ltcwbb-files-main/solutions-to-exercises/6-1e.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ltcwbb-files-main/solutions-to-exercises/6-2a.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ltcwbb-files-main/solutions-to-exercises/6-2c.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="a7edee51-8d5c-4d77-bc16-2d5594db28f7" name="Changes" comment="update added already written files">
+      <change beforePath="$PROJECT_DIR$/ltcwbb-files-main/code/02_python.py" beforeDir="false" afterPath="$PROJECT_DIR$/ltcwbb-files-main/code/02_python.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -92,6 +14,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 0
@@ -107,6 +32,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Python.02_python.executor": "Run",
     "Python.main.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -114,7 +40,29 @@
     "settings.editor.selected.configurable": "preferences.keymap"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.02_python">
+    <configuration name="02_python" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ltcwbb" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ltcwbb-files-main/code" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ltcwbb-files-main/code/02_python.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="ltcwbb" />
       <option name="ENV_FILES" value="" />
@@ -138,6 +86,15 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <list>
+      <item itemvalue="Python.main" />
+      <item itemvalue="Python.02_python" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.02_python" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
@@ -163,7 +120,23 @@
       <option name="project" value="LOCAL" />
       <updated>1712029489815</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="update added already written files">
+      <option name="closed" value="true" />
+      <created>1712036138445</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1712036138445</updated>
+    </task>
+    <task id="LOCAL-00003" summary="update added already written files">
+      <option name="closed" value="true" />
+      <created>1712036161971</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1712036161971</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -180,6 +153,7 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="hello! this is a test - does it work? initial commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="hello! this is a test - does it work? initial commit" />
+    <MESSAGE value="update added already written files" />
+    <option name="LAST_COMMIT_MESSAGE" value="update added already written files" />
   </component>
 </project>
