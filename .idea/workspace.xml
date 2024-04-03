@@ -4,7 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a7edee51-8d5c-4d77-bc16-2d5594db28f7" name="Changes" comment="update added already written files">
+    <list default="true" id="a7edee51-8d5c-4d77-bc16-2d5594db28f7" name="Changes" comment="Hmm - unsure why I can't run any Python code individually - but git works!">
+      <change afterPath="$PROJECT_DIR$/.ipynb_checkpoints/Untitled-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.ipynb_checkpoints/test-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Untitled.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ltcwbb-files-main/code/test_2.pynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ltcwbb-files-main/code/test_dad.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/untitled.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ltcwbb-files-main/code/02_python.py" beforeDir="false" afterPath="$PROJECT_DIR$/ltcwbb-files-main/code/02_python.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -50,8 +58,9 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
+      <option name="SDK_NAME" value="Python 3.12 (ltcwbb)" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ltcwbb-files-main/code" />
-      <option name="IS_MODULE_SDK" value="true" />
+      <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ltcwbb-files-main/code/02_python.py" />
@@ -136,7 +145,23 @@
       <option name="project" value="LOCAL" />
       <updated>1712036161971</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Hmm - unsure why I can't run any Python code individually - but git works!">
+      <option name="closed" value="true" />
+      <created>1712037057440</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1712037057440</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Hmm - unsure why I can't run any Python code individually - but git works!">
+      <option name="closed" value="true" />
+      <created>1712037065004</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1712037065004</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -154,6 +179,7 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="hello! this is a test - does it work? initial commit" />
     <MESSAGE value="update added already written files" />
-    <option name="LAST_COMMIT_MESSAGE" value="update added already written files" />
+    <MESSAGE value="Hmm - unsure why I can't run any Python code individually - but git works!" />
+    <option name="LAST_COMMIT_MESSAGE" value="Hmm - unsure why I can't run any Python code individually - but git works!" />
   </component>
 </project>

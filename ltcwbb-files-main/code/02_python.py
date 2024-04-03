@@ -8,12 +8,16 @@
 ##########################
 1 + 1
 
+print('hello')
+
+
 ##########
 # comments
 ##########
 
 # print the result of 1 + 1
-print(1 + 1)
+print (1 + 1)
+
 
 ###########
 # variables
